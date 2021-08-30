@@ -9,9 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=cubedhuang&color=15171a">
 
 some of my projects:
-- [cubed discord bot](https://dsc.gg/cubed)
-  - allows you to use the new discord activities
-- [my website](https://cubedhuang.com)
+- [Slate - Discord Bot](https://slate.dan.onl)
+- [My Website](https://cubedhuang.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=cubedhuang&hide_border=true&show_icons=true&count_private=true&theme=dark" height="180">
 
