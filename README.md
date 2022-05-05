@@ -12,7 +12,7 @@ Hi! I'm **Daniel** (he/they), a 15-year-old developer from the United States.
 - [🧪 CubeDHuang: Web Experiments](https://cubedhuang.com), a lot of old games and stuff I tried making in middle school. There are also some more recent experiments I threw together like a Wordle result narrower on the more experiments page.
 - [🕊️ Boids](https://boids.cubedhuang.com), a flocking simulation with tons of different parameters to mess around with. It uses PixiJS for rendering and is optimized with a spatial subdivision system. Inspired by the Coding Train's flocking simulation coding challenge.
 
-<img src="https://github-readme-stats.vercel.app/api?username=cubedhuang&hide_border=true&show_icons=true&count_private=true&theme=dark" height="180">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=cubedhuang&hide_border=true&show_icons=true&count_private=true&theme=dark" height="180"> -->
 
 <!--
 **cubedhuang/cubedhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
