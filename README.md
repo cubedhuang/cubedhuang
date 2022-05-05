@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://dan.onl/">
-    <img src="header.svg" width="800" height="200" alt="hi">
-  </a>
-</div>
-
 # Daniel 👋! <img src="https://komarev.com/ghpvc/?username=cubedhuang&color=15171a">
 
 Hi! I'm **Daniel** (he/they), a 15-year-old developer from the United States.
