@@ -13,7 +13,7 @@
 - [🌎 My Website](https://dan.onl)
 - [🖥️ College Board Pseudocode Interpreter](https://board.dan.onl) - an interpreter for the pseudocode language College Board specifies on the AP Computer Science Principles Exam reference sheet.
 - [🛠️ Slate - Discord Bot](https://slate.dan.onl) - a general-purpose utility Discord bot with features like math solving, moderation, and voice channel activities.
-- [🧪 Web Experiments](https://cubedhuang.com) - a lot of old games and stuff I tried making in middle school.
+- [🧪 CubeDHuang: Web Experiments](https://cubedhuang.com) - a lot of old games and stuff I tried making in middle school.
 
 <img src="https://github-readme-stats.vercel.app/api?username=cubedhuang&hide_border=true&show_icons=true&count_private=true&theme=dark" height="180">
 
