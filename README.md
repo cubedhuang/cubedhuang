@@ -1,6 +1,6 @@
 # Daniel 👋! <img src="https://komarev.com/ghpvc/?username=cubedhuang&color=15171a">
 
-Hi! I'm **Daniel** (he/they), a 15-year-old developer from the United States.
+Hi! I'm **Daniel** (he/they), a 16-year-old developer from the United States.
 
 [![My Skills](https://skillicons.dev/icons?theme=dark&i=ts,js,html,css,rust,vscode,tailwind,github,nextjs,react,mongodb,nodejs)](https://skillicons.dev)
 
