@@ -11,6 +11,7 @@ Hi! I'm **Daniel** (he/she/they), a 16-year-old developer from the United States
 - [🛠️ Slate - Discord Bot](https://slate.dan.onl), a general-purpose utility Discord bot with features like math solving, moderation, and voice channel activities. It's still closed source because I used to have a bunch of tokens and stuff laying around in the source code and I'm in the middle of a rewrite to support interactions. But it still works!
 - [📓 Discord Embed Creator](https://embed.dan.onl), a tool that lets you create, share, and generate discord.js and discord.py code to send message embeds.
 - [🕊️ Boids](https://boids.cubedhuang.com), a flocking simulation with tons of different parameters to mess around with. It uses PixiJS for rendering and is optimized with a spatial subdivision system. Inspired by the Coding Train's flocking simulation coding challenge.
+- [🟩 Wordle Bot](https://github.com/cubedhuang/wordle-bot), a simple Discord bot which uses image rendering to play games, showing the game keyboard to be as accurate to the original site as possible.
 - [🧪 CubeDHuang: Web Experiments](https://cubedhuang.com), a lot of old games and stuff I tried making in middle school. There are also some more recent experiments I threw together like a Wordle result narrower on the more experiments page.
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cubedhuang&hide_border=true&show_icons=true&count_private=true&theme=dark" height="180"> -->
