@@ -7,7 +7,7 @@ Hi! I'm **Daniel** (he/she/they), a 16-year-old developer from the United States
 ## My Projects ✨
 
 - [🌎 My Personal Website](https://dan.onl), made with Next.js, TypeScript, and TailwindCSS. It includes a breakdown of my top Spotify tracks!
-- [📖 sona nimi], an online, interactive toki pona dictionary which uses public data about popular words and compounds.
+- [📖 sona nimi](https://nimi.dan.onl), an online, interactive toki pona dictionary which uses public data about popular words and compounds.
 - [🖥️ College Board Pseudocode Interpreter](https://board.dan.onl), an interpreter for the pseudocode language College Board specifies on the AP Computer Science Principles Exam reference sheet. It includes a breakdown of tokens processed and a collapsible abstract syntax tree to explore.
 - [🛠️ Slate - Discord Bot](https://slate.dan.onl), a general-purpose utility Discord bot with features like math solving, moderation, and voice channel activities. It's still closed source because I used to have a bunch of tokens and stuff laying around in the source code and I'm in the middle of a rewrite to support interactions. But it still works!
 - [📓 Discord Embed Creator](https://embed.dan.onl), a tool that lets you create, share, and generate discord.js and discord.py code to send message embeds.
