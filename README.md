@@ -2,7 +2,7 @@
 
 Hi! I'm **Daniel**, a 16-year-old developer from the United States.
 
-[![My Skills](https://skillicons.dev/icons?theme=dark&i=ts,js,svelte,html,css,rust,vscode,tailwind,github,nextjs,react,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=dark&i=ts,js,svelte,prisma,html,css,rust,vscode,tailwind,github,nextjs,react,mongodb,nodejs)](https://skillicons.dev)
 
 ## My Projects ✨
 
