@@ -1,9 +1,11 @@
-# Daniel! <img src="https://komarev.com/ghpvc/?username=cubedhuang&color=15171a">
+<img src="./header.svg" width="10000">
 
-Hi 👋! I'm **Daniel**, a 16-year-old developer from the United States.
+## Hi 👋! I'm **Daniel**, a 16-year-old developer from the United States.
 
 [![My Skills](https://skillicons.dev/icons?theme=dark&i=ts,js,svelte,prisma,html,css,rust,vscode,tailwind,github,nextjs,react,mongodb,nodejs)](https://skillicons.dev)
 
+<img src="https://komarev.com/ghpvc/?username=cubedhuang&color=15171a">
+  
 ## My Projects ✨
 
 - [🌎 My Personal Website](https://dan.onl), made with Next.js, TypeScript, and TailwindCSS. It includes a breakdown of my top Spotify tracks!
