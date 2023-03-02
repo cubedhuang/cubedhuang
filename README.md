@@ -1,6 +1,6 @@
-# Daniel 👋! <img src="https://komarev.com/ghpvc/?username=cubedhuang&color=15171a">
+# Daniel! <img src="https://komarev.com/ghpvc/?username=cubedhuang&color=15171a">
 
-Hi! I'm **Daniel**, a 16-year-old developer from the United States.
+Hi 👋! I'm **Daniel**, a 16-year-old developer from the United States.
 
 [![My Skills](https://skillicons.dev/icons?theme=dark&i=ts,js,svelte,prisma,html,css,rust,vscode,tailwind,github,nextjs,react,mongodb,nodejs)](https://skillicons.dev)
 
@@ -15,18 +15,3 @@ Hi! I'm **Daniel**, a 16-year-old developer from the United States.
 - [🕊️ Boids](https://boids.cubedhuang.com), a flocking simulation with tons of different parameters to mess around with. It uses PixiJS for rendering and is optimized with a spatial subdivision system. Inspired by the Coding Train's flocking simulation coding challenge.
 - [🟩 Wordle Bot](https://github.com/cubedhuang/wordle-bot), a simple Discord bot which uses image rendering to play games, showing the game keyboard to be as accurate to the original site as possible.
 - [🧪 CubeDHuang: Web Experiments](https://cubedhuang.com), a lot of old games and stuff I tried making in middle school. There are also some more recent experiments I threw together like a Wordle result narrower on the more experiments page.
-
-<!--
-**cubedhuang/cubedhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
