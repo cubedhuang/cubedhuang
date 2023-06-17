@@ -1,6 +1,6 @@
 <img src="./header.svg" width="10000">
 
-## Hi 👋! I'm **Daniel**, a 16-year-old developer from the United States.
+## Hi 👋! I'm **Daniel**, a 17-year-old developer from the United States.
 
 [![My Skills](https://skillicons.dev/icons?theme=dark&i=ts,js,svelte,prisma,html,css,rust,vscode,tailwind,github,nextjs,react,mongodb,nodejs)](https://skillicons.dev)
 
