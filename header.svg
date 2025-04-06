@@ -1,13 +1,13 @@
-<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@keyframes rotate {
 					0% {
-						transform: rotate(3deg);
+						transform: rotate(2deg);
 					}
 					100% {
-						transform: rotate(-3deg);
+						transform: rotate(-2deg);
 					}
 				}
 
@@ -52,7 +52,7 @@
 					justify-content: center;
 					margin: 0;
 					width: 100%;
-					height: 200px;
+					height: 150px;
 					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
@@ -76,7 +76,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>daniel!</h1>
+				<h1>o lukin!</h1>
 			</div>
 		</div>
 	</foreignObject>
